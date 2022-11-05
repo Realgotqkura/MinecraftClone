@@ -9,5 +9,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="slick-util3" level="project" />
     <orderEntry type="library" name="LWJGL 3" level="project" />
+    <orderEntry type="library" name="joml-1.10.4" level="project" />
+    <orderEntry type="library" name="pngdecoder-0.13" level="project" />
+    <orderEntry type="library" name="lwjgl_util-2.9.0" level="project" />
   </component>
 </module>

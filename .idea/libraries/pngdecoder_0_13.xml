@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pngdecoder-0.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../pngdecoder-0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
